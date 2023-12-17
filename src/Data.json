@@ -1,0 +1,58 @@
+[
+    {
+        "id":1,
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Brian_Cox_%282016%29_-_01.jpg/255px-Brian_Cox_%282016%29_-_01.jpg",
+        "title":"Logan Roy",
+        "Description":"Logan Roy is the billionaire founder of media and entertainment conglomerate Waystar RoyCo. He is a brash leader whose primary focus was his company rather than his four children Connor, Kendall, Roman and Siobhan."
+
+
+    },
+    {
+        "id":2,
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Alan_Ruck_%2840740365053%29_%28cropped1%29.jpg/255px-Alan_Ruck_%2840740365053%29_%28cropped1%29.jpg",
+        "title":"Connor Roy",
+        "Description":"Connor is the eldest son of Logan Roy from his first marriage. Prone to delusions of grandeur, Connor is mostly removed from corporate affairs, residing at a ranch in New Mexico with his young girlfriend Willa and deferring to his siblings on most firm-related matters."
+
+
+    },
+    {
+        "id":3,
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Jeremy_Strong_2014.jpg/255px-Jeremy_Strong_2014.jpg",
+        "title":"Kendall Roy",
+        "Description":"Kendall Logan Roy is the second son of Logan Roy from his second marriage. The presumed successor to Logan, Kendall struggles to prove his worth to his father amid bungling major deals and battling with substance abuse, as well as toiling to maintain a relationship with his estranged wife Rava, his siblings, and his children."
+
+
+    },
+    {
+        "id":4,
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Kieran_Culkin_2012.jpg/255px-Kieran_Culkin_2012.jpg",
+        "title":"Roman Roy",
+        "Description":"Roman is the third and youngest son of Logan Roy from his second marriage. He is desperate for attention and approval from his father, which at times puts him at odds with his siblings, particularly Kendall and Shiv."
+
+
+    },
+    {
+        "id":5,
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Sarah_Snook_Saphires_%28cropped%29.jpg/255px-Sarah_Snook_Saphires_%28cropped%29.jpg",
+        "title":"Shiv Roy",
+        "Description":"Siobhan, commonly referred to as 'Shiv', is the youngest child and only daughter of Logan Roy from his second marriage. She is a left-leaning political fixer who previously distanced herself from her family company until finally receiving an offer of leadership from Logan. She is married to Tom Wambsgans, whom she loves but frequently disregards."
+
+
+    },
+    {
+        "id":6,
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Matthew_Macfadyen_2019.jpg/255px-Matthew_Macfadyen_2019.jpg",
+        "title":"Tom Wambsgans",
+        "Description":"Tom is Shiv's fiancé and later husband, and a Waystar executive. He is promoted from heading the amusement park and cruise division to running ATN, the company's global news outlet. He is a people-pleaser and enjoys his proximity to the Roy family's power but is frequently dismissed by the family's inner circle, and uses underlings like Greg to wield his power. He is originally from St. Paul, Minnesota."
+
+
+    },
+    {
+        "id":7,
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Nicholas_Braun_2017.jpg/255px-Nicholas_Braun_2017.jpg",
+        "title":"Greg Hirsch",
+        "Description":"Greg is Logan's great-nephew and grandson of Ewan Roy. As an adult, Greg has had little interaction with Logan Roy or his children. Roy family members, however, vaguely remember him as a child; Caroline recalls at one point that Greg was nicknamed 'Greg the Egg' as a child."
+
+
+    }
+]
